@@ -1,0 +1,16 @@
+C:\Users\elmer_c2pxcd9\source\repos\Assignment_1\Assignment_1\bin\Debug\Assignment_1.exe.config
+C:\Users\elmer_c2pxcd9\source\repos\Assignment_1\Assignment_1\bin\Debug\Assignment_1.exe
+C:\Users\elmer_c2pxcd9\source\repos\Assignment_1\Assignment_1\bin\Debug\Assignment_1.pdb
+C:\Users\elmer_c2pxcd9\source\repos\Assignment_1\Assignment_1\bin\Debug\Assignment_1.xml
+C:\Users\elmer_c2pxcd9\source\repos\Assignment_1\Assignment_1\obj\Debug\Assignment_1.vbprojAssemblyReference.cache
+C:\Users\elmer_c2pxcd9\source\repos\Assignment_1\Assignment_1\obj\Debug\Assignment_1.Resources.resources
+C:\Users\elmer_c2pxcd9\source\repos\Assignment_1\Assignment_1\obj\Debug\Assignment_1.vbproj.GenerateResource.cache
+C:\Users\elmer_c2pxcd9\source\repos\Assignment_1\Assignment_1\obj\Debug\Assignment_1.vbproj.CoreCompileInputs.cache
+C:\Users\elmer_c2pxcd9\source\repos\Assignment_1\Assignment_1\obj\Debug\Assignment_1.exe
+C:\Users\elmer_c2pxcd9\source\repos\Assignment_1\Assignment_1\obj\Debug\Assignment_1.xml
+C:\Users\elmer_c2pxcd9\source\repos\Assignment_1\Assignment_1\obj\Debug\Assignment_1.pdb
+C:\Users\elmer_c2pxcd9\source\repos\Assignment_1\Assignment_1\obj\Debug\Assignment_1.frmMainMenu.resources
+C:\Users\elmer_c2pxcd9\source\repos\Assignment_1\Assignment_1\obj\Debug\Assignment_1.frmManageUserRoles.resources
+C:\Users\elmer_c2pxcd9\source\repos\Assignment_1\Assignment_1\obj\Debug\Assignment_1.frmDisplayUsers.resources
+C:\Users\elmer_c2pxcd9\source\repos\Assignment_1\Assignment_1\obj\Debug\Assignment_1.frmManageUser.resources
+C:\Users\elmer_c2pxcd9\source\repos\Assignment_1\Assignment_1\obj\Debug\Assignment_1.frmDisplayUserLogin.resources
